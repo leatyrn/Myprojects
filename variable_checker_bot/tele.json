@@ -1,0 +1,19 @@
+{
+    "1499431341": {
+        "username": "Leatyrn",
+        "first_name": "Leatyrn",
+        "state": "none",
+        "variables": {
+            "value_1": {
+                "name_of_value": "value1",
+                "type": "str",
+                "info": "STR"
+            },
+            "value_2": {
+                "name_of_value": "value2",
+                "type": "str",
+                "info": "STR"
+            }
+        }
+    }
+}
